@@ -2,7 +2,7 @@
 
 ## Objective
 
-This week, you’ll connect your dashboard directly to the database created in Week 7 (`log.db`)  
+This week, you’ll connect your dashboard directly to the database created in Week 8 (`log.db`)  
 and display the stored log data using **Streamlit**.
 
 ---
