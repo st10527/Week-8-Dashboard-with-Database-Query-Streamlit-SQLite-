@@ -1,4 +1,4 @@
-# Week 8 – Dashboard with Database Query (Streamlit + SQLite)
+# Week 9 – Dashboard with Database Query (Streamlit + SQLite)
 
 ## Objective
 
