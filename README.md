@@ -32,6 +32,8 @@ and display the stored log data using **Streamlit**.
 ```bash
 streamlit run app.py
 
+---
+
 Make sure log.db is in the same folder as your Streamlit app.
 
 ## Submission Checklist
